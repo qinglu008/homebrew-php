@@ -4,7 +4,7 @@ class Php54Swoole < AbstractPhp54Extension
   init
   homepage 'https://github.com/matyhtf/swoole'
   url 'http://pecl.php.net/get/swoole-1.6.11.tgz'
-  sha1 'fd45cc0e34ccbcf1060b2d5e8a816b241b8b3ef9'
+  sha1 '67ab2c3d8d1657183c0d796956b2a7927aa72843'
   head 'https://github.com/matyhtf/swoole.git'
 
   def install
